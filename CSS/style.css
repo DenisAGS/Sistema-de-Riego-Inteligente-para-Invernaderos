@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: arial;
+    width: 1400px;
+  }
+
+.contenedor2 {
+  width: 1400px;
+  height: 89px;
+  margin: auto;
+  display: flex;
+  background-size:cover;
+  padding-top: 12px;
+  background-color:darkslategrey;
+}
+
+.btnHistorial{
+  font-size:larger; 
+  cursor:pointer; 
+  margin-left:220px;
+  background-color:rgb(56, 54, 54);
+  border: none;
+  height: 50px;
+  width: 90px;
+  border-radius: 15px;
+}
+
+.btnApagar{
+  font-size:larger; 
+  cursor:pointer; 
+  margin-left:220px;
+  background-color:rgb(56, 54, 54);
+  border: none;
+  height: 50px;
+  width: 90px;
+  border-radius: 15px;
+}
+
+.btnEncender{
+  font-size:larger; 
+  cursor:pointer; 
+  margin-left:220px;
+  background-color:rgb(56, 54, 54);
+  border: none;
+  height: 50px;
+  width: 90px;
+  border-radius: 15px;
+}
+
+.btnCerrar{
+  font-size:larger; 
+  cursor:pointer; 
+  margin-left:220px;
+  background-color:rgb(56, 54, 54);
+  border: none;
+  height: 50px;
+  width: 90px;
+  border-radius: 15px;
+}
+
+.btnAumentar{
+  font-size:larger; 
+  cursor:pointer; 
+  margin-left:220px;
+  background-color:rgb(56, 54, 54);
+  border: none;
+  height: 50px;
+  width: 90px;
+  border-radius: 15px;
+}
+
+.name{
+    font-size: 60px;
+    margin-left: 450px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position:relative; 
+    margin-left: 30px;
+}
+
+.content{
+  position: absolute;
+  width: 50%;
+  height: 50%;
+}
+
+.contenedor{
+  background-color:royalblue;
+}
