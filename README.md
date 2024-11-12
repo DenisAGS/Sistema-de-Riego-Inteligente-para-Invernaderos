@@ -1,7 +1,6 @@
 # 🌱 Sistema de Riego Inteligente para Invernaderos 💧
 
 ## 📝 Descripción
-📋 Descripción
 El Sistema de Riego Inteligente para Invernaderos está diseñado para optimizar el uso del agua y mejorar las condiciones de cultivo dentro de un invernadero. Este proyecto tiene como objetivo crear una interfaz web que permita a los usuarios monitorear y controlar el riego, la temperatura, la humedad, y otros factores clave que influyen en el crecimiento de los cultivos.
 
 ## 🌟 Características Principales
